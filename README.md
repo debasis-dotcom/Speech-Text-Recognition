@@ -1,2 +1,3 @@
 # Speech-Text-Recognition
-Its a basic speech to text recognition or you can say convertion
+Its a basic speech to text recognition script which I have created using python.
+
